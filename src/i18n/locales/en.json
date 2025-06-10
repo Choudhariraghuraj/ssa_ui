@@ -1,0 +1,78 @@
+{
+  "title": "Ayyappa Swamy Seva Committee",
+  "nav": {
+    "home": "Home",
+    "schedule": "Pooja Schedule",
+    "gallery": "Gallery",
+    "donate": "Donate",
+    "contact": "Contact",
+    "events": "Events",
+    "about": "About"
+  },
+  "hero": {
+    "title": "Swamiye Saranam Ayyappa",
+    "description": "Welcome to the official site of the sacred Ayyappa Swamy Temple, Lakshmeshwar-582116. Currently under construction, your blessings and support help build this divine space.",
+    "donate": "Donate Now"
+  },
+  "pooja": {
+    "title": "Daily Pooja Schedule",
+    "suprabhatha": {
+      "title": "Suprabhatha Seva",
+      "time": "5:00 AM – 5:30 AM",
+      "description": "Early morning prayer and chanting to wake the deity."
+    },
+    "abhishekam": {
+      "title": "Abhishekam",
+      "time": "6:00 AM – 7:00 AM",
+      "description": "Sacred bathing ceremony with milk, honey, and holy water."
+    },
+    "archana": {
+      "title": "Archana & Aarti",
+      "time": "7:30 AM – 8:30 AM",
+      "description": "Offering flowers and waving camphor flame to the deity."
+    },
+    "maha": {
+      "title": "Maha Pooja",
+      "time": "12:00 PM – 1:00 PM",
+      "description": "Main pooja with special mantras and prasad distribution."
+    },
+    "deeparadhana": {
+      "title": "Deeparadhana",
+      "time": "6:00 PM – 6:30 PM",
+      "description": "Evening pooja with oil lamps and chanting."
+    },
+    "harathi": {
+      "title": "Harathi & Temple Close",
+      "time": "8:30 PM",
+      "description": "Final blessing of the day before closing the temple."
+    }
+  },
+  "footer": {
+    "templeName": "Ayyappa Swamy Temple",
+    "templeDescription": "Swamiye Saranam Ayyappa. A divine place of worship and peace.",
+    "quickLinks": "Quick Links",
+    "links": {
+      "home": "Home",
+      "about": "About",
+      "donate": "Donate",
+      "contact": "Contact"
+    },
+    "contact": "Contact",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "subscribe": "Subscribe",
+    "subscribePrompt": "Get temple updates in your inbox",
+    "emailPlaceholder": "Your email",
+    "subscribeBtn": "Subscribe",
+    "rights": "Ayyappa Swamy Temple. All rights reserved."
+  },
+  "subtitle": "Welcome to the official site of the sacred Ayyappa Swamy Temple...",
+    "donate": "Donate Now",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "subscribe": "Subscribe",
+    "newsletter": "Get temple updates in your inbox",
+    "underConstruction": "This website is currently under construction. Swamiye Saranam Ayyappa!"
+}
+  
